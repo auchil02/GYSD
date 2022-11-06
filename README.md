@@ -1,4 +1,4 @@
-# GYST, Get Yo Sh..tuff Together!
+# GYST "Get Yo Sh..tuff Together!"
 
 Keeping up with college life is difficult. Students feel overwhelmed just thinking of their daily tasks, let alone keeping up with their favorite topics. Our application GYST tackles this problem in a simple, automated solution. All a user has to do it input their favorite news buzzwords, personal calendar, and phone number. From this, they will automatically receive a personalized text message from GYST containing their daily tasks, upcoming tests, news articles, and even have the option to receive a joke of the day!
 
