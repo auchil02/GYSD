@@ -1,0 +1,62 @@
+.main-footer{
+background-color: #171D24;
+color: aliceblue;
+padding-top: 30px;
+padding-bottom: 40px;
+}
+
+.footer-bottom{
+
+
+
+}
+
+.column1{
+    /*padding-top: 50px;*/
+    padding-left: 50px;
+    text-align: left;
+    font-weight: 600;
+    font-size: 17px;
+
+
+}
+
+.column1h{
+    text-align: left;
+    /*padding-bottom: 10px;*/
+    padding-right: 30px;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.column2{
+    padding-left: 250px;
+    text-align: right;
+    padding-right: 50px;
+    /*padding-top: 5px;
+    padding-bottom: 70px;*/
+    font-weight: 300;
+    font-size: 15px;
+
+    
+
+}
+
+.column2h{
+   text-align: right;
+   padding-bottom: 10px;
+   padding-right: 60px;
+   font-weight: bolder;
+
+}
+
+.sociallogos{
+    text-align: left;
+    padding-left: 50px;
+}
+
+
+.copyright{
+    text-align: center;
+    padding-top: 40px;
+}
