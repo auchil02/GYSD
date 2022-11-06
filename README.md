@@ -1,2 +1,2 @@
 # GYSD
-Get Yo Shit Done
+Get Yo S**t Together!
